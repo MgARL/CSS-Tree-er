@@ -12,8 +12,12 @@
   color: white;
 }
 
-nav {
+/* nav {
   display: none;
+} */
+
+#forest-view{
+  width: 100%;
 }
 
 
